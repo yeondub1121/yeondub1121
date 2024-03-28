@@ -1,4 +1,4 @@
-## Hi, there👋gestures/Waving Hand.png" alt="Eyes" width="3%" />
+## Hi, there👋
 
 ### Tech Stack📚
 <div>
