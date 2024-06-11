@@ -32,7 +32,7 @@
 
 <div align=center>
     
-![Yeondub's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Yeondub's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeondub1121&show_icons=true&theme=radical)
 
 </div>
 
