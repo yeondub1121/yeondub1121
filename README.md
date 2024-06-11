@@ -26,10 +26,10 @@
 <h2 align="center">📫 Contact 📫</h2>
 <div align="center">
   
-  <a href="kssjshyjj@gmail.com">
+  <h2><a href="kssjshyjj@gmail.com">
     <img
       src="https://img.shields.io/badge/kssjshyjj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  </a></h2>
       
 
 </div>
@@ -39,7 +39,7 @@
 ![Yeondub's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeondub1121&show_icons=true&theme=radical)
 
 </div>
-
+<h2></h2>
 <div align=center>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeondub1121&layout=compact)
