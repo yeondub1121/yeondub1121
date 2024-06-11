@@ -48,6 +48,6 @@
 
 <div align=center>
     
-[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?logo=&logoColor=white&link=[https://elseif.kakao.com/2020/session/87](https://kssjshyjj.tistory.com))]([https://elseif.kakao.com/2020/session/87](https://kssjshyjj.tistory.com))
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?logo=&logoColor=white&link=https://kssjshyjj.tistory.com)](https://kssjshyjj.tistory.com)
 
 </div>
