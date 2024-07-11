@@ -30,9 +30,7 @@
     <img
       src="https://img.shields.io/badge/kssjshyjj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-      
-  [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?logo=&logoColor=white&link=https://kssjshyjj.tistory.com)](https://kssjshyjj.tistory.com)</h2>
-      
+
 
 </div>
 
