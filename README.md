@@ -6,7 +6,7 @@
 
 <div align=center>
     
-<h1>:sparkles:Tech Stack:sparkles:</h1>
+<h2>:sparkles:Tech Stack:sparkles:</h2>
 
 <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
