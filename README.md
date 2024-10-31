@@ -34,5 +34,9 @@
 
 
 </div>
+<div align=center>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeondub1121&layout=compact)
+
+</div>
 
