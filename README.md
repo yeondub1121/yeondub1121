@@ -24,16 +24,7 @@
 
 </div>
 
-<h2 align="center">📫 Contact 📫</h2>
-<div align="center">
-  
-  <h2><a href="kssjshyjj@gmail.com">
-    <img
-      src="https://img.shields.io/badge/kssjshyjj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 
-
-</div>
 <div align=center>
 
 ![Yeondub's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeondub1121&show_icons=true&theme=radical)
