@@ -27,7 +27,8 @@
 
 <div align=center>
 
-![Yeondub's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeondub1121&show_icons=true&theme=transparent)
+![Yeondub's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeondub1121&show_icons=true&theme=transparent&text_color=212121)
+
 
 </div>
 <h2></h2>
